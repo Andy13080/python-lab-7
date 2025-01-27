@@ -42,4 +42,4 @@ def get_weather(city_name, api_key):
 API_KEY = "3538c7353ea6924c8139a1e8b5aa90a2"
 city = "Lusaka"
 
-get_weather(city, API_KEY)
+get_weather(city, API_KEY).
