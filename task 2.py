@@ -38,4 +38,4 @@ def display_characters(characters):
         print("-" * 40)
 
 
-fetch_characters(name="Rick", status="alive")..
+fetch_characters(name="Rick", status="alive")
