@@ -46,4 +46,4 @@ next_button.pack(pady=10)
 
 update_picture()
 
-root.mainloop().
+root.mainloop()
